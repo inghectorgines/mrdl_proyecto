@@ -1,3 +1,5 @@
+## Descargo y procedo a revisar y calificar.
+
 print("Nombre: Diana Laura Martinez Romero\nGrupo: 9 A\nMateria: Desarrollo Para Dispositivos Inteligentes\nFecha: 14/06/2022\n")
 
 from usuarios import acciones
